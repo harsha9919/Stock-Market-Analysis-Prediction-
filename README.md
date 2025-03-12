@@ -6,5 +6,5 @@ This project is a **Stock Market Analysis & Prediction** tool using **LSTM (Long
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/stock-prediction.git
+git clone https://github.com/harsha9919/stock-prediction.git
 cd stock-prediction
